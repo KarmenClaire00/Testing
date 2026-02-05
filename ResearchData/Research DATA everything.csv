@@ -1,0 +1,91 @@
+Site_Id,Barangay,Crop,reading_index,pH_reading,mean_ph,sd_ph(sample),fertilizer_type_extracted,sacks_per_ha,lime_applied,years_planted,fertilizer_kg_ha,fertilizer_type_group,organic_fertilizer,crop_cassava,crop_corn
+New Visayas_Cassava_1,New Visayas,Cassava,1,5.9,5.38,0.438178046,"14-14-14;ammonium sulfate;organic;urea, foliar, rice hull",5,0,2,250,Urea,0,1,0
+New Visayas_Cassava_2,New Visayas,Cassava,2,5,5.38,,"14-14-14;ammonium sulfate;organic;urea, foliar, rice hull",5,0,2,250,Urea,0,1,0
+New Visayas_Cassava_3,New Visayas,Cassava,3,5.8,,,"14-14-14;ammonium sulfate;organic;urea, foliar, rice hull",5,0,2,250,Urea,0,1,0
+New Visayas_Cassava_4,New Visayas,Cassava,4,5,,,"14-14-14;ammonium sulfate;organic;urea, foliar, rice hull",5,0,2,250,Urea,0,1,0
+New Visayas_Cassava_5,New Visayas,Cassava,5,5.2,,,"14-14-14;ammonium sulfate;organic;urea, foliar, rice hull",5,0,2,250,Urea,0,1,0
+New Visayas_Sugarcane_1,New Visayas,Sugarcane,1,5.58,5.666,0.3169858041,14-14-14;ammonium sulfate;organic;urea,3,0,16,150,Urea,0,0,0
+New Visayas_Sugarcane_2,New Visayas,Sugarcane,2,6.2,,,14-14-14;ammonium sulfate;organic;urea,3,0,16,150,Urea,0,0,0
+New Visayas_Sugarcane_3,New Visayas,Sugarcane,3,5.5,,,14-14-14;ammonium sulfate;organic;urea,3,0,16,150,Urea,0,0,0
+New Visayas_Sugarcane_4,New Visayas,Sugarcane,4,5.67,,,14-14-14;ammonium sulfate;organic;urea,3,0,16,150,Urea,0,0,0
+New Visayas_Sugarcane_5,New Visayas,Sugarcane,5,5.38,,,14-14-14;ammonium sulfate;organic;urea,3,0,16,150,Urea,0,0,0
+New Visayas_Corn_1,New Visayas,Corn,1,5.2,5.122,0.3548520819,14-14-14;ammonium sulfate;organic;urea,6,0,3,300,Urea,0,0,1
+New Visayas_Corn_2,New Visayas,Corn,2,5,,,14-14-14;ammonium sulfate;organic;urea,6,0,3,300,Urea,0,0,1
+New Visayas_Corn_3,New Visayas,Corn,3,4.8,,,14-14-14;ammonium sulfate;organic;urea,6,0,3,300,Urea,0,0,1
+New Visayas_Corn_4,New Visayas,Corn,4,5.7,,,14-14-14;ammonium sulfate;organic;urea,6,0,3,300,Urea,0,0,1
+New Visayas_Corn_5,New Visayas,Corn,5,4.91,,,14-14-14;ammonium sulfate;organic;urea,6,0,3,300,Urea,0,0,1
+Kapalaran_Corn_1,Kapalaran,Corn,1,5.2,5.22,0.08366600265,14;14-14-14,14,0,8,700,NPK,0,0,1
+Kapalaran_Corn_2,Kapalaran,Corn,2,5.3,,,14;14-14-14,14,0,8,700,NPK,0,0,1
+Kapalaran_Corn_3,Kapalaran,Corn,3,5.3,,,14;14-14-14,14,0,8,700,NPK,0,0,1
+Kapalaran_Corn_4,Kapalaran,Corn,4,5.2,,,14;14-14-14,14,0,8,700,NPK,0,0,1
+Kapalaran_Corn_5,Kapalaran,Corn,5,5.1,,,14;14-14-14,14,0,8,700,NPK,0,0,1
+Kapalaran_Cassava_1,Kapalaran,Cassava,1,6.2,6.276,0.1043072385,14;14-14-14,14,0,,700,NPK,0,1,0
+Kapalaran_Cassava_2,Kapalaran,Cassava,2,6.2,,,14;14-14-14,14,0,,700,NPK,0,1,0
+Kapalaran_Cassava_3,Kapalaran,Cassava,3,6.38,,,14;14-14-14,14,0,,700,NPK,0,1,0
+Kapalaran_Cassava_4,Kapalaran,Cassava,4,6.4,,,14;14-14-14,14,0,,700,NPK,0,1,0
+Kapalaran_Cassava_5,Kapalaran,Cassava,5,6.2,,,14;14-14-14,14,0,,700,NPK,0,1,0
+Kapalaran_Sugarcane_1,Kapalaran,Sugarcane,1,5.8,5.876,0.2136117974,14;14-14-14,14,0,,700,NPK,0,0,0
+Kapalaran_Sugarcane_2,Kapalaran,Sugarcane,2,5.8,,,14;14-14-14,14,0,,700,NPK,0,0,0
+Kapalaran_Sugarcane_3,Kapalaran,Sugarcane,3,6.2,,,14;14-14-14,14,0,,700,NPK,0,0,0
+Kapalaran_Sugarcane_4,Kapalaran,Sugarcane,4,5.95,,,14;14-14-14,14,0,,700,NPK,0,0,0
+Kapalaran_Sugarcane_5,Kapalaran,Sugarcane,5,5.63,,,14;14-14-14,14,0,,700,NPK,0,0,0
+Osmeña_Sugarcane_1,Osmeña,Sugarcane,1,5.4,5.9,0.4183300133,14-14-14;urea,2,0,5,100,Urea,0,0,0
+Osmeña_Sugarcane_2,Osmeña,Sugarcane,2,5.8,,,14-14-14;urea,2,0,5,100,Urea,0,0,0
+Osmeña_Sugarcane_3,Osmeña,Sugarcane,3,6.1,,,14-14-14;urea,2,0,5,100,Urea,0,0,0
+Osmeña_Sugarcane_4,Osmeña,Sugarcane,4,5.7,,,14-14-14;urea,2,0,5,100,Urea,0,0,0
+Osmeña_Sugarcane_5,Osmeña,Sugarcane,5,6.5,,,14-14-14;urea,2,0,5,100,Urea,0,0,0
+Osmeña_Cassava_1,Osmeña,Cassava,1,5.6,5.634,0.2208619478,14-14-14;urea,2,0,1,100,Urea,0,1,0
+Osmeña_Cassava_2,Osmeña,Cassava,2,5.6,,,14-14-14;urea,2,0,1,100,Urea,0,1,0
+Osmeña_Cassava_3,Osmeña,Cassava,3,5.4,,,14-14-14;urea,2,0,1,100,Urea,0,1,0
+Osmeña_Cassava_4,Osmeña,Cassava,4,5.57,,,14-14-14;urea,2,0,1,100,Urea,0,1,0
+Osmeña_Cassava_5,Osmeña,Cassava,5,6,,,14-14-14;urea,2,0,1,100,Urea,0,1,0
+Osmeña_Corn_1,Osmeña,Corn,1,6.63,6.178,0.2692953769,14-14-14;urea,2,0,8,100,Urea,0,0,1
+Osmeña_Corn_2,Osmeña,Corn,2,6.1,,,14-14-14;urea,2,0,8,100,Urea,0,0,1
+Osmeña_Corn_3,Osmeña,Corn,3,6,,,14-14-14;urea,2,0,8,100,Urea,0,0,1
+Osmeña_Corn_4,Osmeña,Corn,4,6.2,,,14-14-14;urea,2,0,8,100,Urea,0,0,1
+Osmeña_Corn_5,Osmeña,Corn,5,5.96,,,14-14-14;urea,2,0,8,100,Urea,0,0,1
+Poblacion_Sugarcane_1,Poblacion,Sugarcane,1,5.1,5.238,0.2705919437,"14-14-14, 00-00-46, 00-00-60",2,0,35,,NPK,0,0,0
+Poblacion_Sugarcane_2,Poblacion,Sugarcane,2,5,,,"14-14-14, 00-00-46, 00-00-60",2,0,35,,NPK,0,0,0
+Poblacion_Sugarcane_3,Poblacion,Sugarcane,3,5.19,,,"14-14-14, 00-00-46, 00-00-60",2,0,35,,NPK,0,0,0
+Poblacion_Sugarcane_4,Poblacion,Sugarcane,4,5.2,,,"14-14-14, 00-00-46, 00-00-60",2,0,35,,NPK,0,0,0
+Poblacion_Sugarcane_5,Poblacion,Sugarcane,5,5.7,,,"14-14-14, 00-00-46, 00-00-60",2,0,35,,NPK,0,0,0
+Poblacion_Cassava_1,Poblacion,Cassava,1,4.6,4.56,0.1816590212,"14-14-14, 46-00-00, 00-46-00, 00-00-46",2,1,2,100,NPK,0,1,0
+Poblacion_Cassava_2,Poblacion,Cassava,2,4.8,,,"14-14-14, 46-00-00, 00-46-00, 00-00-46",2,1,2,100,NPK,0,1,0
+Poblacion_Cassava_3,Poblacion,Cassava,3,4.6,,,"14-14-14, 46-00-00, 00-46-00, 00-00-46",2,1,2,100,NPK,0,1,0
+Poblacion_Cassava_4,Poblacion,Cassava,4,4.5,,,"14-14-14, 46-00-00, 00-46-00, 00-00-46",2,1,2,100,NPK,0,1,0
+Poblacion_Cassava_5,Poblacion,Cassava,5,4.3,,,"14-14-14, 46-00-00, 00-46-00, 00-00-46",2,1,2,100,NPK,0,1,0
+Poblacion_Corn_1,Poblacion,Corn,1,4.5,4.62,0.1643167673,14-14-14,1,0,1,50,NPK,0,0,1
+Poblacion_Corn_2,Poblacion,Corn,2,4.7,,,14-14-14,1,0,1,50,NPK,0,0,1
+Poblacion_Corn_3,Poblacion,Corn,3,4.8,,,14-14-14,1,0,1,50,NPK,0,0,1
+Poblacion_Corn_4,Poblacion,Corn,4,4.4,,,14-14-14,1,0,1,50,NPK,0,0,1
+Poblacion_Corn_5,Poblacion,Corn,5,4.7,,,14-14-14,1,0,1,50,NPK,0,0,1
+Dolorosa_Sugarcane_1,Dolorosa,Sugarcane,1,3.6,3.58,0.6016643583,16-20-00;urea,7,0,2,350,Urea,0,0,0
+Dolorosa_Sugarcane_2,Dolorosa,Sugarcane,2,3.2,,,16-20-00;urea,7,0,2,350,Urea,0,0,0
+Dolorosa_Sugarcane_3,Dolorosa,Sugarcane,3,4.6,,,16-20-00;urea,7,0,2,350,Urea,0,0,0
+Dolorosa_Sugarcane_4,Dolorosa,Sugarcane,4,3.1,,,16-20-00;urea,7,0,2,350,Urea,0,0,0
+Dolorosa_Sugarcane_5,Dolorosa,Sugarcane,5,3.4,,,16-20-00;urea,7,0,2,350,Urea,0,0,0
+Dolorosa_Cassava_1,Dolorosa,Cassava,1,3.3,3.48,0.3271085447,21-00-00;urea,1,0,1,50,Urea,0,1,0
+Dolorosa_Cassava_2,Dolorosa,Cassava,2,3.6,,,21-00-00;urea,1,0,1,50,Urea,0,1,0
+Dolorosa_Cassava_3,Dolorosa,Cassava,3,4,,,21-00-00;urea,1,0,1,50,Urea,0,1,0
+Dolorosa_Cassava_4,Dolorosa,Cassava,4,3.3,,,21-00-00;urea,1,0,1,50,Urea,0,1,0
+Dolorosa_Cassava_5,Dolorosa,Cassava,5,3.2,,,21-00-00;urea,1,0,1,50,Urea,0,1,0
+Dolorosa_Corn_1,Dolorosa,Corn,1,3.6,3.34,0.1949358869,14-14-14;urea,5,0,15,250,Urea,0,0,1
+Dolorosa_Corn_2,Dolorosa,Corn,2,3.4,,,14-14-14;urea,5,0,15,250,Urea,0,0,1
+Dolorosa_Corn_3,Dolorosa,Corn,3,3.4,,,14-14-14;urea,5,0,15,250,Urea,0,0,1
+Dolorosa_Corn_4,Dolorosa,Corn,4,3.2,,,14-14-14;urea,5,0,15,250,Urea,0,0,1
+Dolorosa_Corn_5,Dolorosa,Corn,5,3.1,,,14-14-14;urea,5,0,15,250,Urea,0,0,1
+Miaray_sugarcane_1,Miaray,Sugarcane,1,4.1,4.5,0.5118593557,,3,0,,,Unknown,0,0,0
+Miaray_sugarcane_2,Miaray,Sugarcane,2,3.6,,,,3,0,,,Unknown,0,0,0
+Miaray_sugarcane_3,Miaray,Sugarcane,3,4.7,,,,3,0,,,Unknown,0,0,0
+Miaray_sugarcane_4,Miaray,Sugarcane,4,4.3,,,,3,0,,,Unknown,0,0,0
+Miaray_sugarcane_5,Miaray,Sugarcane,5,4.9,,,,3,0,,,Unknown,0,0,0
+Miaray_cassava_1,Miaray,Cassava,1,5.35,4.63,0.411703777,,2,0,,,Unknown,0,1,0
+Miaray_cassava_2,Miaray,Cassava,2,4.4,,,,2,0,,,Unknown,0,1,0
+Miaray_cassava_3,Miaray,Cassava,3,4.4,,,,2,0,,,Unknown,0,1,0
+Miaray_cassava_4,Miaray,Cassava,4,4.4,,,,2,0,,,Unknown,0,1,0
+Miaray_cassava_5,Miaray,Cassava,5,4.6,,,,2,0,,,Unknown,0,1,0
+Miaray_Corn_1,Miaray,Corn,1,5.1,4.16,0.6107372594,"114-14-14, 21-00-00",2,0,2,100,NPK,0,0,1
+Miaray_Corn_2,Miaray,Corn,2,3.4,,,"114-14-14, 21-00-00",2,0,2,100,NPK,0,0,1
+Miaray_Corn_3,Miaray,Corn,3,4.1,,,"114-14-14, 21-00-00",2,0,2,100,NPK,0,0,1
+Miaray_Corn_4,Miaray,Corn,4,4,,,"114-14-14, 21-00-00",2,0,2,100,NPK,0,0,1
+Miaray_Corn_5,Miaray,Corn,5,4.2,,,"114-14-14, 21-00-00",2,0,2,100,NPK,0,0,1

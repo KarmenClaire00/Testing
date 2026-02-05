@@ -1,0 +1,123 @@
+Soil degradation and declining agricultural productivity pose significant threats to global food security, with acidification emerging as a major factor in reduced crop yields. A considerable portion of the world’s soils are moderately to highly degraded, limiting nutrient availability and weakening plant health. Salinity and acidification further compromise arable lands, particularly in vulnerable regions, thereby threatening the sustainability of food production systems.
+Globally, soil damage continues to affect the stability of the food supply. Smith et al. (2024) reported that about 33% of global soils are moderately to highly degraded, identifying soil acidification as a leading cause of productivity loss. The Food and Agriculture Organization (FAO, 2024) likewise emphasized that widespread salinity and acidification threaten agricultural productivity, particularly in developing nations where farming remains the backbone of local economies.
+In the agricultural communities of Dangcagan, Bukidnon, these global challenges are evident at the local level. Farmers report consistently low crop yields despite significant labor and fertilizer use. Field observations indicate that soil acidity restricts plant growth and nutrient absorption. Limited access to laboratory testing further prevents farmers from obtaining accurate soil data, highlighting the need for a more practical and cost-effective approach. This situation provides the motivation to develop a predictive model for soil pH estimation based on measurable environmental and land-use factors such as rainfall, crop type, and fertilizer application.
+Soil pH, which determines whether soil is acidic, neutral, or basic, plays a vital role in nutrient absorption. Most crops grow best at a pH between 6.0 and 7.0, where essential nutrients such as nitrogen, phosphorus, and potassium are readily available. When soil pH drops below 5.5, roots become damaged, beneficial microorganisms decline, and harmful elements like aluminum become more available, reducing crop productivity. Arunrat et al. (2020) highlighted that maintaining balanced soil pH through organic matter management improves nutrient availability and promotes long-term soil fertility.
+Farming practices also influence soil acidity. Crop rotation, crop selection, and fertilizer use determine how soil pH changes over time. Legumes such as peanuts and beans can help maintain balance by enriching the soil with nitrogen, while continuous planting of crops like corn without proper management increases acidity. A report by the Philippine News Agency (2024) described how farmland in Negros experienced a decrease in soil pH after volcanic ashfall but recovered through liming and organic interventions.
+Linear regression offers a valuable tool for predicting soil pH by analyzing relationships among variables such as rainfall, crop type, and fertilizer use. Delgadillo-Duran et al. (2020) demonstrated that regression models combined with environmental data can accurately estimate soil chemical properties, including pH. However, few studies in the Philippines have examined local conditions affecting soil acidity. This study aims to address that gap by developing a localized predictive model for soil pH across several barangays in Dangcagan, Bukidnon. The model will enable farmers to make informed decisions on fertilizer management, crop selection, and soil treatment, leading to lower costs, higher yields, and more sustainable agricultural practices.
+
+
+
+Objectives of the Study:
+The primary aim of this study is to examine how environmental and land use factors influence soil pH levels. In line with this, the study specifically aims to:
+1.To identify the environmental and land use factors that influence soil pH levels in selected agricultural areas.
+2.To collect and analyze data on soil pH and its relationship with variables such as rainfall, crop type, and fertilizer use.
+3.To develop a linear regression model that can predict soil pH levels based on the identified environmental and land use factors.         
+4.To evaluate the effectiveness of linear regression in predicting soil pH levels based on environmental and land use factors.
+Null Hypotheses
+To empirically assess the influence of environmental and land use factors on soil acidity and the predictive validity of linear regression, the following null hypotheses are proposed.
+H1: Environmental and land use factors do not have a significant effect on soil pH levels in the selected agricultural areas. 
+H2: There is no significant relationship between soil pH and factors such as rainfall, crop type, and fertilizer use. 
+H3: A linear regression model cannot accurately predict soil pH levels based on environmental and land use factors. 
+H4: Linear regression is not an effective method for predicting soil pH levels using environmental and land use factors.
+Significance of the Study
+This research delves into the factors influencing soil pH and presents a predictive model, offering valuable insights into soil health. Its findings are valuable for the following groups:
+Farmers. The farmers can use the findings to understand how their farming practice such as the type of crops they plant and the fertilizers they use affect soil pH. With the help of the regression model, they can better plan how to care for their soil, resulting in healthier crops and more efficient farming.
+Agricultural Technicians and Soil Scientists. This study gives professionals in agriculture and soil science a data-driven tool to assess soil conditions. It helps them give more accurate advice and recommendations to farmers and landowners.
+Environmental Planners and Land Use Managers. People involved in planning land use can benefit by learning how different environmental and land use factors impact soil quality. This helps them develop strategies that protect soil health and promote sustainable land use.
+Government Agencies and Policymakers. The study can assist local and national agencies in creating policies or guidelines for land management, fertilizer use, and environmental conservation based on real data and scientific analysis.
+Researchers and Students. Future researchers and students in agriculture, environmental science, or data analysis can use this study as a reference for building similar models or expanding on the findings to help other regions or soil conditions.
+Scope and Delimitation
+This study aims to predict soil pH levels in selected agricultural barangays of Dangcagan, Bukidnon specifically Poblacion, Miaray, New Visayas, Kapalaran, Osmeña, and Dolorosa by building a multiple linear regression model where the variables are soil pH, rainfall, crop type, and fertilizer use (type, amount, frequency). Primary data sources are field-measured soil pH readings taken with a calibrated soil-pH tester and structured farmer interviews/farm records, while rainfall data are obtained from PAGASA records; participants are farmers and farm plots within the listed barangays. The study period runs from the first week of June 2025 through October 2025, covering site selection, calibration, field sampling, interviews, data encoding, and regression analysis. 
+The analysis relies solely on multiple linear regression to evaluate how the selected predictors influence soil pH; other predictive or statistical methods (e.g., machine learning or non-linear models) are excluded. Laboratory-based chemical analyses and other environmental factors (temperature, elevation, wind, detailed soil texture/type) are outside the study’s scope, so findings will be specific to the sampled barangays and may not be directly generalizable to areas with different soil or climatic conditions. Data quality depends on field pH meter readings and farmer-reported records, and these delimitations are acknowledged when interpreting the model’s practical recommendations for local farmers.
+
+
+
+
+METHODOLOGY
+This section provides a comprehensive overview of the research methodology, covering the research design, locale of the study, duration of the study, materials and equipment, process, data collection procedure, and data collection analysis.
+Research Design
+This study employs a correlational research design, specifically utilizing multiple linear regression analysis to model and predict soil pH levels in corn farms based on environmental and land use factors. This approach is suitable because it investigates statistical relationships between the independent variables which are rainfall, fertilizer use, and crop management practices and the dependent variable, soil pH, without altering the natural agricultural environment in which these variables occur. Yigini et al. (2022) reported that correlational designs are valuable in agricultural contexts where environmental and management factors interact in complex, non-manipulable ways.
+To analyze these relationships, the researchers selected multiple linear regression as the primary statistical method. This technique allows for the simultaneous evaluation of multiple predictors and quantifies their individual and collective influence on soil pH. As highlighted by Correndo et al. (2021), linear regression is especially effective in environmental studies because it provides interpretable coefficients that explain how each factor affects soil properties, such as acidity. Moreover, the method’s predictive capability supports the development of practical tools for field-level decision-making in agriculture.
+The main objective of adopting this research design is to construct a predictive model that can estimate soil pH based on actual farming inputs and environmental conditions. This model is intended to assist corn farmers in making more informed decisions—such as adjusting fertilizer types or determining the appropriate timing for liming based on scientifically derived insights. As noted by Ngetich et al. (2023), predictive models grounded in field data are instrumental in improving soil management and ensuring long-term agricultural productivity.
+Furthermore, one of the advantages of this approach is its accessibility. The output of multiple linear regression can be simplified into equations that are understandable to local farmers and agricultural technicians, even those with limited statistical knowledge. Consequently, the findings can serve as both a decision-making tool and an educational resource. By applying a robust and data-driven methodology grounded in local farming practices, this study aims to contribute to sustainable agriculture in Dangcagan and other similar rural areas.
+Data Collection Procedure
+The data for this study were obtained from both primary and secondary sources. To achieve the first and second objectives, which involve identifying environmental and land use factors influencing soil pH and analyzing their relationships, primary data were collected directly from farmers in Barangays Kapalaran, Osmeña, New Visayas, Poblacion, Miaray, and Dolorosa in Dangcagan, Bukidnon.
+In each selected farm, a calibrated soil pH tester was used to measure actual soil pH levels. Farmer interviews provided information on crop type, fertilizer type, quantity applied, and frequency of application, which served as the land use variables. For the environmental factor, secondary data on monthly rainfall were obtained from the Central Mindanao University PAGASA Station and matched with the corresponding soil pH measurement sites and periods.
+Before data collection, formal permission was secured from barangay captains and, when required, from landowners. The study’s purpose was explained to participants, and informed consent was obtained to ensure voluntary and ethical participation. After gathering all data, the information was organized, encoded, and tabulated for statistical analysis to develop and evaluate a linear regression model predicting soil pH based on environmental and land use factors.
+Data Analysis
+The collected data are organized and encoded using Microsoft Excel or a similar statistical software to ensure accuracy in processing and analysis. Descriptive statistics, including the mean, frequency, and standard deviation, are used to summarize the information on soil pH, rainfall, fertilizer use, and crop type. This step supports the second objective by providing a clear overview of the general patterns and variations in the dataset. 
+To address the third objective, multiple linear regression analysis is applied to determine the relationship between the independent variables, which include rainfall, fertilizer use, and crop type, and the dependent variable, which is the soil pH level. The analysis produces an R-squared value that indicates the proportion of variation in soil pH explained by the selected variables. It also provides p-values that show the statistical significance of each factor in the model. 
+Finally, the results of the regression analysis are interpreted to evaluate the accuracy and effectiveness of linear regression as a predictive tool for estimating soil pH levels. This process fulfills the fourth objective of assessing how well linear regression can predict soil acidity based on environmental and land use factors.
+
+
+Locale of the Study
+The study is conducted across selected agricultural areas in the municipality of Dangcagan, Bukidnon, specifically in the barangays of Poblacion, Miaray, Dolorosa, Osmeña, New Visayas, and Kapalaran. These areas were chosen because they represent a variety of soil conditions, crop types, and farming practices typical of upland agricultural communities in Bukidnon. Collectively, they provide a suitable environment for examining how environmental and land use factors such as rainfall patterns, fertilizer application, and crop selection that affects soil pH levels.
+
+      Map of the Municipality of Dangcagan showing where the selected areas located.
+Ethical Consideration
+This study was conducted in accordance with the ethical guidelines stated in DepEd Order No. 16, s. 2017 (Research Management Guidelines) and DepEd Memorandum No. 28, s. 2022 (Quality Control Checklist for Completed Basic and Action Research). Before the research began, the researchers secured administrative approval from the school principal and written endorsement from the barangay officials of each participating site (see Appendix A). 
+Informed consent was obtained from all participating farmers prior to conducting interviews or collecting soil samples from their land. Participants were fully informed about the research purpose, procedures, expected duration, their right to refuse or withdraw at any time without consequence, and how their data would be used. 
+To ensure confidentiality, all data collected (including interview responses, fertilizer usage, and soil pH readings) were anonymized. GPS coordinates and location-based data were used strictly for research mapping and were not linked to any individual identity in the final report. 
+The researchers ensured no harm was done during data collection. Soil sampling followed standard non-destructive agricultural methods, and no chemicals or experimental treatments were applied. Participation was entirely voluntary, and no financial or academic incentives were provided to influence responses.
+ Finally, the researchers’ maintained respect, transparency, and ethical integrity in all engagements with farmers and community stakeholder s. Research findings will be shared with interested participants and barangay officials upon request to encourage collaborative knowledge sharing and application.
+Duration of the Study
+Activities 	June	July	August	September	October
+	1 	2 	3 	4 	1 	2 	3 	4 	1	2	3	4	1	2	3	4	1	2	3	4
+A.Planning Stage
+1.Addressing Research Problem of Research Title
+2.Approval of the proposed Research Problem of the Research Title
+B.Writing Stage
+1.Introduction
+2.Objectives of the Study
+3.Significance of the Study
+4.Scope and Delimitations of the Study
+C.Materials and Methods
+a.Formulating the Research Design and Procedures
+b.Data Analysis and Data Collection
+c.Collection of Materials and other Equipment
+D.Actual Conduct of the Study
+1.Equipment Preparation and Calibration
+2.Site Selection and Documentation
+3.Primary Data Collection
+4.Secondary Data Gathering
+5.Data Processing and Analysis
+6.Results Interpretation and Model Validation
+E.Reporting Stage
+1.Presentation of Report
+2.Proposal Defense
+																				
+This correlational research, titled Modeling Soil pH Levels Based on Environmental and Land Use Factors Using Linear Regression, officially began on first week of June 2025, and is expected to be completed by October 2025. The study follows the timeline outlined above, covering the phases of planning, proposal writing, instrument preparation, data collection, statistical analysis, model development, report writing, and final presentation. 
+Materials and Equipment
+The materials and equipment used in the conduct of the study and data gathering were the following:
+                                                   
+         Plate 1: Soil pH Meter   	                     Plate 1.1: Recorder and Documentation
+        
+                                     
+       Plate 1.2: Laptop			                       Plate 1.3: Statistical Software
+
+			
+
+		
+                
+                                                                              
+              Plate 1.4: Field Notebook                                      Plate 1.5: Shovel
+
+
+
+Procedure
+A.Preparation of Materials and Equipment
+Before data collection, all required materials and instruments were prepared. These included the Soil pH Meter, shovel, GPS device or GPS-enabled smartphone, computer or laptop, statistical software such as Microsoft Excel or SPSS, and a field notebook.
+The Soil pH Meter was calibrated using standard buffer solutions with pH values of 4.0, 7.0, and 10.0 to ensure accurate measurements during the study.
+B. Study Area and Sampling Sites
+The study was conducted in six selected barangays in Dangcagan, Bukidnon. These Poblacion, Miaray, Dolorosa, Osmena, Kapalaran, and New Visayas. Within each barangay, three sampling areas were identified to represent different land use conditions. The researchers used a square pattern method in each area to provide systematic coverage and ensure that the samples represented the entire site.
+C. Soil Sample Collection
+From each square pattern site, individual soil samples were collected manually at a depth of approximately 5 to 10 centimeters using a shovel. Each collected sample was treated as an individual data point, and no averaging of subsamples was performed.
+The total number of soil samples collected was ninety, which represented six barangays with three sampling areas in each, and several square plots per area to reach the total number.
+D. On-Site Measurement of Soil pH
+For every collected sample, direct pH readings were obtained on-site using the calibrated Soil pH Meter. The sampling sites represented three main crop types found in the study area, which were sugarcane, corn, and cassava.
+E. Collection of Environmental and Land Use Data
+Additional data on environmental and land use factors were gathered to support the analysis. Information about crop type and fertilizer usage was obtained through farmer interviews and field observations. Rainfall data were collected from the Central Mindanao University Agrometeorological Station. All recorded information was first written in the field notebook and later encoded into a digital datasheet using Microsoft Excel or similar software.
+F. Data Analysis
+The collected data were analyzed using multiple linear regression analysis in Microsoft Excel or SPSS. In this analysis, soil pH served as the dependent variable, while rainfall, crop type, and fertilizer use were treated as the independent variables. The statistical significance, R-squared value, and regression coefficients were computed to determine the strength and accuracy of the predictive relationship among the variables.
+G. Model Evaluation and Interpretation
+The resulting regression model was evaluated to determine its effectiveness in estimating soil pH based on environmental and land use factors. The findings were interpreted according to actual farming practices observed in Dangcagan. Comparisons were also made with relevant research to draw meaningful conclusions and practical implications for improving soil management and agricultural productivity.
